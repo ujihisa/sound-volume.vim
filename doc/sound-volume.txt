@@ -1,0 +1,16 @@
+*sound-volume.txt*	Control volume either by unite, command or function.
+
+Author: Tatsuhiro Ujihisa <ujihisa at gmail com>
+License: GPL-3 or later
+
+CONTENTS					*sound-volume-contents*
+
+Usage			|unite-usage|
+
+==============================================================================
+USAGE						*unite-usage*
+
+	TODO
+
+==============================================================================
+vim:tw=78:ts=8:ft=help:norl:noet:fen:
